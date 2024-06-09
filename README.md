@@ -14,7 +14,7 @@ https://deeplx.yelochick.com/
 
 ## Vercel 一键部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fyelochick%2Fdeeplx-lb)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ftojbk%2Fdeeplx-lb)
 
 ### KV 数据库创建
 
